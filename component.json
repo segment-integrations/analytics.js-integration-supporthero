@@ -2,7 +2,7 @@
   "name": "analytics.js-integration-supporthero",
   "repo": "segment-integrations/analytics.js-integration-supporthero",
   "description": "The Supporthero analytics.js integration.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
